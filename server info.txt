@@ -1,0 +1,17 @@
+i have a new server set up for you...
+
+Shared Plan: Business
+Your Control Panel: https://gator3137.hostgator.com:2083
+Username: lupo
+Domain: lupolupo.com
+Password: z2vbm*Qnn9pC
+1st Nameserver: ns6273.hostgator.com
+2nd Nameserver: ns6274.hostgator.com
+Server IP: 50.87.144.179
+
+I'm going to call this app lupolupo. This is a brand new server with a dedicated ip address, so hopefully this gives you what you need.
+
+
+database name : lupo_comicstrip
+username : lupo_user
+password : A)G8aP4nZZJA
